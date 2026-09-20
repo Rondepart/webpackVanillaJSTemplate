@@ -7,6 +7,7 @@ A minimal webpack template for VanillaJS
 - Development server with live reload (`webpack-dev-server`) and source maps (`eval-source-map`)
 - Modular configs merged with `webpack-merge`
 - Production build with automatic HTML/JS minification
+- ESLint and prettier for linting and formatting
 
 
 ## Getting Started
