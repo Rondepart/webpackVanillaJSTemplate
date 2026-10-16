@@ -8,6 +8,7 @@ A minimal webpack template for VanillaJS
 - Modular configs merged with `webpack-merge`
 - Production build with automatic HTML/JS minification
 - ESLint and prettier for linting and formatting
+- Jest testing environment with module support
 
 
 ## Getting Started
